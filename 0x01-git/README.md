@@ -1,2 +1,2 @@
 Hi
-My read me file is up to date today
+My readme file is up to date today
